@@ -1,5 +1,5 @@
 - 👋 Hi, This is @gloryadityaj
-- 👀 I’m interested in WebDev, Computer Vision, AI, etc
+- 👀 I’m interested in WebDev, Computer Vision, AI, and Bioinformatics
 - 🌱 I’m currently learning on JavaScript, Python, and OpenCV
 - 📫 How to reach me? Just sent email to gloryadityaj@gmail.com
 
